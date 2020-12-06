@@ -1,0 +1,16 @@
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.links{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.images{
+    display:flex;
+    justify-content: center;
+}
